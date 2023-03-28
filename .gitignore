@@ -1,8 +1,6 @@
-# Dependencies
+.vscode
 .psci_modules
-bower_components
-node_modules
-
-# Generated files
 .psci
+.psc-ide-port
+.spago
 output
